@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "158952683189",
+    "firebase_url": "https://testfirebase-f53ad.firebaseio.com",
+    "project_id": "testfirebase-f53ad",
+    "storage_bucket": "testfirebase-f53ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158952683189:android:b17467df5ef909c1b6f0fc",
+        "android_client_info": {
+          "package_name": "com.ya.test_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158952683189-4aloj5kq4ar8ov4qi04tii3qnpf2vkv7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApTblWLk0GMQCbUdiS7RbaP1fPkx10NBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "158952683189-4aloj5kq4ar8ov4qi04tii3qnpf2vkv7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
